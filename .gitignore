@@ -7,6 +7,6 @@ cypress-e2e-sandbox/cypress/reports
 cypress-e2e-sandbox/reports
 cypress-e2e-sandbox/screenshots
 cypress-e2e-sandbox/junit
-cypress-e2e-sandbox/cypress/fixtures/
+#cypress-e2e-sandbox/cypress/fixtures/
 cypress-e2e-sandbox/allure-report
 cypress-e2e-sandbox/allure-results
