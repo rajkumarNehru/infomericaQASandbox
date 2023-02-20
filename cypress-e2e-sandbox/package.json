@@ -1,0 +1,23 @@
+{
+  "name": "cypress-e2e-sandbox",
+  "version": "1.0.0",
+  "description": "Cypress E2E Sandbox",
+  "main": "cypress.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumarNehru/infomericaQASandbox.git"
+  },
+  "author": "Rajkumar Nehru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumarNehru/infomericaQASandbox/issues"
+  },
+  "homepage": "https://github.com/rajkumarNehru/infomericaQASandbox#readme"
+}
