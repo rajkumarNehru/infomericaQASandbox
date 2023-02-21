@@ -1,3 +1,6 @@
+/**
+ * Direct Energy Test Suite
+ */
 describe('Direct Energy Test Suite', ()=>{
 
     Cypress.config({
